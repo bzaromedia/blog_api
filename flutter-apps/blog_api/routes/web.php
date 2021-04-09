@@ -13,9 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/', 'App\Http\Controllers\BlogController@create');
 Route::get('/', 'App\Http\Controllers\DashboardController@index');
