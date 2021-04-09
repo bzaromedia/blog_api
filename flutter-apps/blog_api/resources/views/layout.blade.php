@@ -43,7 +43,7 @@
 
         @yield('dashboard-content')
 
-
+       </div>
 
             </div>
             <!-- /.container-fluid -->
