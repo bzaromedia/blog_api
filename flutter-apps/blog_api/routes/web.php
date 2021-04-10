@@ -15,3 +15,6 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', 'App\Http\Controllers\DashboardController@index');
+Route::get('/', 'App\Http\Controllers\CategoryController@create');
+
+//Route::get('create-category', 'CategoryController@create');

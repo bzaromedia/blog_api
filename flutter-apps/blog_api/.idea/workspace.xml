@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07365381-2053-4018-8f80-d40b09ee215b" name="Default Changelist" comment="Learning Git. Forgive me for the crazy space.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Blog.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_04_09_050457_create_blogs_table.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617944421652</updated>
-      <workItem from="1617944423634" duration="13203000" />
+      <workItem from="1617944423634" duration="15507000" />
     </task>
     <task id="LOCAL-00001" summary="progressing along">
       <created>1617953024218</created>
@@ -208,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617956372639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Learning Git. Forgive me for the crazy space.">
+      <created>1617962459435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617962459435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
